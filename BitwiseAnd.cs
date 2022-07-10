@@ -33,8 +33,7 @@ namespace TestConsoleApp
     {
         public static void Main(string[] args)
         {
-            int arrCount = 0;//Convert.ToInt32(Console.ReadLine().Trim());
-            arrCount = 5;
+            int arrCount = 5;//Convert.ToInt32(Console.ReadLine().Trim());
             List<int> arr = new List<int>();
 
             /*for (int i = 0; i < arrCount; i++)
