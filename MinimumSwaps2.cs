@@ -28,7 +28,7 @@ namespace TestConsoleApp
 
     It took 5 swaps to sort the array.
     */
-    public class MinimumSwaps2
+    public class MinWindowSubstring
     {
         static int minimumSwaps(int[] arr)
         {
