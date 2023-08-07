@@ -30,3 +30,19 @@ F:\ASP .NET CORE Projects\TestConsoleApp\obj\Debug\net5.0\refint\TestConsoleApp.
 F:\ASP .NET CORE Projects\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.pdb
 F:\ASP .NET CORE Projects\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.genruntimeconfig.cache
 F:\ASP .NET CORE Projects\TestConsoleApp\obj\Debug\net5.0\ref\TestConsoleApp.dll
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.csproj.AssemblyReference.cache
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.AssemblyInfoInputs.cache
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.AssemblyInfo.cs
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.dll
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\refint\TestConsoleApp.dll
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.pdb
+D:\Personal Files\Challenges\HackerRankChallenges\bin\Debug\net5.0\TestConsoleApp.exe
+D:\Personal Files\Challenges\HackerRankChallenges\bin\Debug\net5.0\TestConsoleApp.deps.json
+D:\Personal Files\Challenges\HackerRankChallenges\bin\Debug\net5.0\TestConsoleApp.runtimeconfig.json
+D:\Personal Files\Challenges\HackerRankChallenges\bin\Debug\net5.0\TestConsoleApp.runtimeconfig.dev.json
+D:\Personal Files\Challenges\HackerRankChallenges\bin\Debug\net5.0\TestConsoleApp.dll
+D:\Personal Files\Challenges\HackerRankChallenges\bin\Debug\net5.0\TestConsoleApp.pdb
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\TestConsoleApp.genruntimeconfig.cache
+D:\Personal Files\Challenges\HackerRankChallenges\obj\Debug\net5.0\ref\TestConsoleApp.dll
